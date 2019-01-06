@@ -14,13 +14,14 @@ namespace StringAverage.Solution
         [TestMethod()]
         public void AverageStringSampleTests()
         {
-            Kata kata = new Kata();
+            Kata kata = new Kata();//TEst
             Assert.AreEqual("four", kata.AverageString("zero nine five two"));
             Assert.AreEqual("three", kata.AverageString("four six two three"));
             Assert.AreEqual("three", kata.AverageString("one two three four five"));
             Assert.AreEqual("four", kata.AverageString("five four"));
             Assert.AreEqual("zero", kata.AverageString("zero zero zero zero zero"));
             Assert.AreEqual("two", kata.AverageString("one one eight one"));
+            Assert.AreEqual("n/a", kata.AverageString(""));
             Assert.AreEqual("n/a", kata.AverageString(""));
         }
     }
