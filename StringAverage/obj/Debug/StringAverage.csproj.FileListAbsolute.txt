@@ -1,0 +1,6 @@
+C:\Users\k.ko29\Documents\kata\StringAverage\StringAverage\bin\Debug\StringAverage.dll
+C:\Users\k.ko29\Documents\kata\StringAverage\StringAverage\bin\Debug\StringAverage.pdb
+C:\Users\k.ko29\Documents\kata\StringAverage\StringAverage\obj\Debug\StringAverage.csprojAssemblyReference.cache
+C:\Users\k.ko29\Documents\kata\StringAverage\StringAverage\obj\Debug\StringAverage.csproj.CoreCompileInputs.cache
+C:\Users\k.ko29\Documents\kata\StringAverage\StringAverage\obj\Debug\StringAverage.dll
+C:\Users\k.ko29\Documents\kata\StringAverage\StringAverage\obj\Debug\StringAverage.pdb
